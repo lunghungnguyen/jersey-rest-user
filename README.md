@@ -13,4 +13,4 @@ This is a Microservice built with Jersey RESTful web services contributing to ot
 
 ___
 
-_Contact: lungnguyenhung@gmail.com_
+_Contact: long.ngyn@protonmail.com_
